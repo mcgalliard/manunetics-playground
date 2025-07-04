@@ -1,0 +1,7 @@
+alpha-three
+Building alpha-two but with CMake and Ninja
+==========================================
+mkdir -p build
+cmake -G Ninja -B build
+cmake --build build
+./output/main.exe

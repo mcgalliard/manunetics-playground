@@ -1,0 +1,3 @@
+C:/Users/manunetics/Documents/manunetics-playground/alpha/source/alpha-three/build/CMakeFiles/main.dir
+C:/Users/manunetics/Documents/manunetics-playground/alpha/source/alpha-three/build/CMakeFiles/edit_cache.dir
+C:/Users/manunetics/Documents/manunetics-playground/alpha/source/alpha-three/build/CMakeFiles/rebuild_cache.dir
