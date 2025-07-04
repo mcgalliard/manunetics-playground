@@ -1,0 +1,17 @@
+
+
+Install VS Code
+Install MSYS2
+pacman -Syu
+# Close the window, then reopen MSYS2 and run:
+pacman -Su
+pacman -S mingw-w64-ucrt-x86_64-gcc make
+Add to path: C:\msys64\ucrt64\bin
+
+Install GNU embedded toolchain and add to PATH
+https://developer.arm.com/downloads/-/arm-gnu-toolchain-downloads
+
+Install openocd
+pacman -S openocd
+Probably download the standalone instead xpack
+
