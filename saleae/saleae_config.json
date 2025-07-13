@@ -1,0 +1,15 @@
+{
+    "device_config": {
+        "digital_sample_rate": 10000000,
+        "capture_mode": "timed",
+        "capture_length_sec": 5,
+        "output_directory": "default"
+    },
+    "analyzers": {
+        "uart_basic": {
+            "type": "Async Serial",
+            "baud": "115200",
+            "input_channel": 0
+        }
+    }
+}
