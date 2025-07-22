@@ -1,0 +1,21 @@
+# ninja log v7
+28	129	7748605118102860	CMakeFiles/stm32c0.dir/Core/Src/sysmem.c.obj	ddeee70b090c7449
+41	113	7748605118228271	CMakeFiles/stm32c0.dir/Core/Startup/startup_stm32c051c8tx.s.obj	f0e83c3cfa634879
+24	146	7748605118052188	CMakeFiles/stm32c0.dir/Core/Src/syscalls.c.obj	2de2c37eaddb3b4d
+1	109	7748611205539388	build.ninja	296131edb55f0042
+36	153	7748605118171523	CMakeFiles/stm32c0.dir/Core/Src/stm32c0xx_it.c.obj	b0e4dd29019337f6
+31	159	7748605118131463	CMakeFiles/stm32c0.dir/Core/Src/stm32c0xx_hal_msp.c.obj	1e3c2aedede74594
+18	91	7748609729544721	CMakeFiles/stm32c0.dir/Core/Src/main.c.obj	5f45cbd62bd1fd35
+20	170	7748605118021312	CMakeFiles/stm32c0.dir/Core/Src/system_stm32c0xx.c.obj	d157b73676cab39d
+45	192	7748605118272912	CMakeFiles/stm32c0.dir/Drivers/STM32C0xx_HAL_Driver/Src/stm32c0xx_hal.c.obj	e404a399b12a44d
+50	201	7748605118320401	CMakeFiles/stm32c0.dir/Drivers/STM32C0xx_HAL_Driver/Src/stm32c0xx_hal_rcc.c.obj	1401ad51c375383a
+55	202	7748605118365636	CMakeFiles/stm32c0.dir/Drivers/STM32C0xx_HAL_Driver/Src/stm32c0xx_hal_gpio.c.obj	8acb75f4c82000be
+60	209	7748605118419748	CMakeFiles/stm32c0.dir/Drivers/STM32C0xx_HAL_Driver/Src/stm32c0xx_hal_cortex.c.obj	255981010d286059
+72	215	7748605118543953	CMakeFiles/stm32c0.dir/Drivers/STM32C0xx_HAL_Driver/Src/stm32c0xx_hal_exti.c.obj	cb14594d165dab68
+66	217	7748605118477853	CMakeFiles/stm32c0.dir/Drivers/STM32C0xx_HAL_Driver/Src/stm32c0xx_hal_dma.c.obj	8caca9200abd0bb5
+87	223	7748605118684475	CMakeFiles/stm32c0.dir/Drivers/STM32C0xx_HAL_Driver/Src/stm32c0xx_hal_pwr.c.obj	9eff186fa2727bae
+82	226	7748605118634370	CMakeFiles/stm32c0.dir/Drivers/STM32C0xx_HAL_Driver/Src/stm32c0xx_hal_pwr_ex.c.obj	daa6f6201b332c8c
+92	239	7748605118744893	CMakeFiles/stm32c0.dir/Drivers/STM32C0xx_HAL_Driver/Src/stm32c0xx_hal_rcc_ex.c.obj	1892e04e61dbd0c8
+77	240	7748605118584141	CMakeFiles/stm32c0.dir/Drivers/STM32C0xx_HAL_Driver/Src/stm32c0xx_hal_flash_ex.c.obj	90a35b2e1e3b0251
+91	196	7748609730275424	stm32c0.elf	9f3030f8e63df3a2
+17	124	7748611205539388	build.ninja	296131edb55f0042

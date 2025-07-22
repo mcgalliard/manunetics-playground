@@ -1,0 +1,104 @@
+[
+{
+  "directory": "C:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/build",
+  "command": "C:\\PROGRA~2\\ARMGNU~1\\142BCE~1.3RE\\bin\\AR19DD~1.EXE -DSTM32C051xx -DUSE_HAL_DRIVER -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Core/Inc -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Core/Startup -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Drivers/CMSIS/Include -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Drivers/CMSIS/Device/ST/STM32C0xx/Include -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Drivers/STM32C0xx_HAL_Driver/Inc -mcpu=cortex-m0plus -std=gnu11   --specs=nano.specs -mthumb -Wall -Werror -o CMakeFiles\\stm32c0.dir\\Core\\Src\\main.c.obj -c C:\\Users\\manunetics\\Documents\\manunetics-playground\\beta\\nucleo-c0\\Core\\Src\\main.c",
+  "file": "C:\\Users\\manunetics\\Documents\\manunetics-playground\\beta\\nucleo-c0\\Core\\Src\\main.c",
+  "output": "CMakeFiles\\stm32c0.dir\\Core\\Src\\main.c.obj"
+},
+{
+  "directory": "C:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/build",
+  "command": "C:\\PROGRA~2\\ARMGNU~1\\142BCE~1.3RE\\bin\\AR19DD~1.EXE -DSTM32C051xx -DUSE_HAL_DRIVER -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Core/Inc -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Core/Startup -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Drivers/CMSIS/Include -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Drivers/CMSIS/Device/ST/STM32C0xx/Include -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Drivers/STM32C0xx_HAL_Driver/Inc -mcpu=cortex-m0plus -std=gnu11   --specs=nano.specs -mthumb -Wall -Werror -o CMakeFiles\\stm32c0.dir\\Core\\Src\\system_stm32c0xx.c.obj -c C:\\Users\\manunetics\\Documents\\manunetics-playground\\beta\\nucleo-c0\\Core\\Src\\system_stm32c0xx.c",
+  "file": "C:\\Users\\manunetics\\Documents\\manunetics-playground\\beta\\nucleo-c0\\Core\\Src\\system_stm32c0xx.c",
+  "output": "CMakeFiles\\stm32c0.dir\\Core\\Src\\system_stm32c0xx.c.obj"
+},
+{
+  "directory": "C:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/build",
+  "command": "C:\\PROGRA~2\\ARMGNU~1\\142BCE~1.3RE\\bin\\AR19DD~1.EXE -DSTM32C051xx -DUSE_HAL_DRIVER -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Core/Inc -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Core/Startup -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Drivers/CMSIS/Include -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Drivers/CMSIS/Device/ST/STM32C0xx/Include -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Drivers/STM32C0xx_HAL_Driver/Inc -mcpu=cortex-m0plus -std=gnu11   --specs=nano.specs -mthumb -Wall -Werror -o CMakeFiles\\stm32c0.dir\\Core\\Src\\syscalls.c.obj -c C:\\Users\\manunetics\\Documents\\manunetics-playground\\beta\\nucleo-c0\\Core\\Src\\syscalls.c",
+  "file": "C:\\Users\\manunetics\\Documents\\manunetics-playground\\beta\\nucleo-c0\\Core\\Src\\syscalls.c",
+  "output": "CMakeFiles\\stm32c0.dir\\Core\\Src\\syscalls.c.obj"
+},
+{
+  "directory": "C:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/build",
+  "command": "C:\\PROGRA~2\\ARMGNU~1\\142BCE~1.3RE\\bin\\AR19DD~1.EXE -DSTM32C051xx -DUSE_HAL_DRIVER -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Core/Inc -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Core/Startup -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Drivers/CMSIS/Include -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Drivers/CMSIS/Device/ST/STM32C0xx/Include -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Drivers/STM32C0xx_HAL_Driver/Inc -mcpu=cortex-m0plus -std=gnu11   --specs=nano.specs -mthumb -Wall -Werror -o CMakeFiles\\stm32c0.dir\\Core\\Src\\sysmem.c.obj -c C:\\Users\\manunetics\\Documents\\manunetics-playground\\beta\\nucleo-c0\\Core\\Src\\sysmem.c",
+  "file": "C:\\Users\\manunetics\\Documents\\manunetics-playground\\beta\\nucleo-c0\\Core\\Src\\sysmem.c",
+  "output": "CMakeFiles\\stm32c0.dir\\Core\\Src\\sysmem.c.obj"
+},
+{
+  "directory": "C:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/build",
+  "command": "C:\\PROGRA~2\\ARMGNU~1\\142BCE~1.3RE\\bin\\AR19DD~1.EXE -DSTM32C051xx -DUSE_HAL_DRIVER -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Core/Inc -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Core/Startup -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Drivers/CMSIS/Include -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Drivers/CMSIS/Device/ST/STM32C0xx/Include -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Drivers/STM32C0xx_HAL_Driver/Inc -mcpu=cortex-m0plus -std=gnu11   --specs=nano.specs -mthumb -Wall -Werror -o CMakeFiles\\stm32c0.dir\\Core\\Src\\stm32c0xx_hal_msp.c.obj -c C:\\Users\\manunetics\\Documents\\manunetics-playground\\beta\\nucleo-c0\\Core\\Src\\stm32c0xx_hal_msp.c",
+  "file": "C:\\Users\\manunetics\\Documents\\manunetics-playground\\beta\\nucleo-c0\\Core\\Src\\stm32c0xx_hal_msp.c",
+  "output": "CMakeFiles\\stm32c0.dir\\Core\\Src\\stm32c0xx_hal_msp.c.obj"
+},
+{
+  "directory": "C:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/build",
+  "command": "C:\\PROGRA~2\\ARMGNU~1\\142BCE~1.3RE\\bin\\AR19DD~1.EXE -DSTM32C051xx -DUSE_HAL_DRIVER -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Core/Inc -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Core/Startup -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Drivers/CMSIS/Include -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Drivers/CMSIS/Device/ST/STM32C0xx/Include -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Drivers/STM32C0xx_HAL_Driver/Inc -mcpu=cortex-m0plus -std=gnu11   --specs=nano.specs -mthumb -Wall -Werror -o CMakeFiles\\stm32c0.dir\\Core\\Src\\stm32c0xx_it.c.obj -c C:\\Users\\manunetics\\Documents\\manunetics-playground\\beta\\nucleo-c0\\Core\\Src\\stm32c0xx_it.c",
+  "file": "C:\\Users\\manunetics\\Documents\\manunetics-playground\\beta\\nucleo-c0\\Core\\Src\\stm32c0xx_it.c",
+  "output": "CMakeFiles\\stm32c0.dir\\Core\\Src\\stm32c0xx_it.c.obj"
+},
+{
+  "directory": "C:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/build",
+  "command": "C:\\PROGRA~2\\ARMGNU~1\\142BCE~1.3RE\\bin\\AR19DD~1.EXE -DSTM32C051xx -DUSE_HAL_DRIVER -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Core/Inc -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Core/Startup -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Drivers/CMSIS/Include -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Drivers/CMSIS/Device/ST/STM32C0xx/Include -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Drivers/STM32C0xx_HAL_Driver/Inc -mcpu=cortex-m0plus -std=gnu11   --specs=nano.specs -mthumb -Wall -Werror -x assembler-with-cpp -o CMakeFiles\\stm32c0.dir\\Core\\Startup\\startup_stm32c051c8tx.s.obj -c C:\\Users\\manunetics\\Documents\\manunetics-playground\\beta\\nucleo-c0\\Core\\Startup\\startup_stm32c051c8tx.s",
+  "file": "C:\\Users\\manunetics\\Documents\\manunetics-playground\\beta\\nucleo-c0\\Core\\Startup\\startup_stm32c051c8tx.s",
+  "output": "CMakeFiles\\stm32c0.dir\\Core\\Startup\\startup_stm32c051c8tx.s.obj"
+},
+{
+  "directory": "C:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/build",
+  "command": "C:\\PROGRA~2\\ARMGNU~1\\142BCE~1.3RE\\bin\\AR19DD~1.EXE -DSTM32C051xx -DUSE_HAL_DRIVER -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Core/Inc -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Core/Startup -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Drivers/CMSIS/Include -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Drivers/CMSIS/Device/ST/STM32C0xx/Include -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Drivers/STM32C0xx_HAL_Driver/Inc -mcpu=cortex-m0plus -std=gnu11   --specs=nano.specs -mthumb -Wall -Werror -o CMakeFiles\\stm32c0.dir\\Drivers\\STM32C0xx_HAL_Driver\\Src\\stm32c0xx_hal.c.obj -c C:\\Users\\manunetics\\Documents\\manunetics-playground\\beta\\nucleo-c0\\Drivers\\STM32C0xx_HAL_Driver\\Src\\stm32c0xx_hal.c",
+  "file": "C:\\Users\\manunetics\\Documents\\manunetics-playground\\beta\\nucleo-c0\\Drivers\\STM32C0xx_HAL_Driver\\Src\\stm32c0xx_hal.c",
+  "output": "CMakeFiles\\stm32c0.dir\\Drivers\\STM32C0xx_HAL_Driver\\Src\\stm32c0xx_hal.c.obj"
+},
+{
+  "directory": "C:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/build",
+  "command": "C:\\PROGRA~2\\ARMGNU~1\\142BCE~1.3RE\\bin\\AR19DD~1.EXE -DSTM32C051xx -DUSE_HAL_DRIVER -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Core/Inc -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Core/Startup -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Drivers/CMSIS/Include -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Drivers/CMSIS/Device/ST/STM32C0xx/Include -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Drivers/STM32C0xx_HAL_Driver/Inc -mcpu=cortex-m0plus -std=gnu11   --specs=nano.specs -mthumb -Wall -Werror -o CMakeFiles\\stm32c0.dir\\Drivers\\STM32C0xx_HAL_Driver\\Src\\stm32c0xx_hal_rcc.c.obj -c C:\\Users\\manunetics\\Documents\\manunetics-playground\\beta\\nucleo-c0\\Drivers\\STM32C0xx_HAL_Driver\\Src\\stm32c0xx_hal_rcc.c",
+  "file": "C:\\Users\\manunetics\\Documents\\manunetics-playground\\beta\\nucleo-c0\\Drivers\\STM32C0xx_HAL_Driver\\Src\\stm32c0xx_hal_rcc.c",
+  "output": "CMakeFiles\\stm32c0.dir\\Drivers\\STM32C0xx_HAL_Driver\\Src\\stm32c0xx_hal_rcc.c.obj"
+},
+{
+  "directory": "C:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/build",
+  "command": "C:\\PROGRA~2\\ARMGNU~1\\142BCE~1.3RE\\bin\\AR19DD~1.EXE -DSTM32C051xx -DUSE_HAL_DRIVER -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Core/Inc -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Core/Startup -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Drivers/CMSIS/Include -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Drivers/CMSIS/Device/ST/STM32C0xx/Include -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Drivers/STM32C0xx_HAL_Driver/Inc -mcpu=cortex-m0plus -std=gnu11   --specs=nano.specs -mthumb -Wall -Werror -o CMakeFiles\\stm32c0.dir\\Drivers\\STM32C0xx_HAL_Driver\\Src\\stm32c0xx_hal_gpio.c.obj -c C:\\Users\\manunetics\\Documents\\manunetics-playground\\beta\\nucleo-c0\\Drivers\\STM32C0xx_HAL_Driver\\Src\\stm32c0xx_hal_gpio.c",
+  "file": "C:\\Users\\manunetics\\Documents\\manunetics-playground\\beta\\nucleo-c0\\Drivers\\STM32C0xx_HAL_Driver\\Src\\stm32c0xx_hal_gpio.c",
+  "output": "CMakeFiles\\stm32c0.dir\\Drivers\\STM32C0xx_HAL_Driver\\Src\\stm32c0xx_hal_gpio.c.obj"
+},
+{
+  "directory": "C:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/build",
+  "command": "C:\\PROGRA~2\\ARMGNU~1\\142BCE~1.3RE\\bin\\AR19DD~1.EXE -DSTM32C051xx -DUSE_HAL_DRIVER -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Core/Inc -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Core/Startup -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Drivers/CMSIS/Include -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Drivers/CMSIS/Device/ST/STM32C0xx/Include -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Drivers/STM32C0xx_HAL_Driver/Inc -mcpu=cortex-m0plus -std=gnu11   --specs=nano.specs -mthumb -Wall -Werror -o CMakeFiles\\stm32c0.dir\\Drivers\\STM32C0xx_HAL_Driver\\Src\\stm32c0xx_hal_cortex.c.obj -c C:\\Users\\manunetics\\Documents\\manunetics-playground\\beta\\nucleo-c0\\Drivers\\STM32C0xx_HAL_Driver\\Src\\stm32c0xx_hal_cortex.c",
+  "file": "C:\\Users\\manunetics\\Documents\\manunetics-playground\\beta\\nucleo-c0\\Drivers\\STM32C0xx_HAL_Driver\\Src\\stm32c0xx_hal_cortex.c",
+  "output": "CMakeFiles\\stm32c0.dir\\Drivers\\STM32C0xx_HAL_Driver\\Src\\stm32c0xx_hal_cortex.c.obj"
+},
+{
+  "directory": "C:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/build",
+  "command": "C:\\PROGRA~2\\ARMGNU~1\\142BCE~1.3RE\\bin\\AR19DD~1.EXE -DSTM32C051xx -DUSE_HAL_DRIVER -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Core/Inc -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Core/Startup -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Drivers/CMSIS/Include -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Drivers/CMSIS/Device/ST/STM32C0xx/Include -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Drivers/STM32C0xx_HAL_Driver/Inc -mcpu=cortex-m0plus -std=gnu11   --specs=nano.specs -mthumb -Wall -Werror -o CMakeFiles\\stm32c0.dir\\Drivers\\STM32C0xx_HAL_Driver\\Src\\stm32c0xx_hal_dma.c.obj -c C:\\Users\\manunetics\\Documents\\manunetics-playground\\beta\\nucleo-c0\\Drivers\\STM32C0xx_HAL_Driver\\Src\\stm32c0xx_hal_dma.c",
+  "file": "C:\\Users\\manunetics\\Documents\\manunetics-playground\\beta\\nucleo-c0\\Drivers\\STM32C0xx_HAL_Driver\\Src\\stm32c0xx_hal_dma.c",
+  "output": "CMakeFiles\\stm32c0.dir\\Drivers\\STM32C0xx_HAL_Driver\\Src\\stm32c0xx_hal_dma.c.obj"
+},
+{
+  "directory": "C:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/build",
+  "command": "C:\\PROGRA~2\\ARMGNU~1\\142BCE~1.3RE\\bin\\AR19DD~1.EXE -DSTM32C051xx -DUSE_HAL_DRIVER -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Core/Inc -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Core/Startup -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Drivers/CMSIS/Include -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Drivers/CMSIS/Device/ST/STM32C0xx/Include -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Drivers/STM32C0xx_HAL_Driver/Inc -mcpu=cortex-m0plus -std=gnu11   --specs=nano.specs -mthumb -Wall -Werror -o CMakeFiles\\stm32c0.dir\\Drivers\\STM32C0xx_HAL_Driver\\Src\\stm32c0xx_hal_exti.c.obj -c C:\\Users\\manunetics\\Documents\\manunetics-playground\\beta\\nucleo-c0\\Drivers\\STM32C0xx_HAL_Driver\\Src\\stm32c0xx_hal_exti.c",
+  "file": "C:\\Users\\manunetics\\Documents\\manunetics-playground\\beta\\nucleo-c0\\Drivers\\STM32C0xx_HAL_Driver\\Src\\stm32c0xx_hal_exti.c",
+  "output": "CMakeFiles\\stm32c0.dir\\Drivers\\STM32C0xx_HAL_Driver\\Src\\stm32c0xx_hal_exti.c.obj"
+},
+{
+  "directory": "C:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/build",
+  "command": "C:\\PROGRA~2\\ARMGNU~1\\142BCE~1.3RE\\bin\\AR19DD~1.EXE -DSTM32C051xx -DUSE_HAL_DRIVER -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Core/Inc -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Core/Startup -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Drivers/CMSIS/Include -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Drivers/CMSIS/Device/ST/STM32C0xx/Include -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Drivers/STM32C0xx_HAL_Driver/Inc -mcpu=cortex-m0plus -std=gnu11   --specs=nano.specs -mthumb -Wall -Werror -o CMakeFiles\\stm32c0.dir\\Drivers\\STM32C0xx_HAL_Driver\\Src\\stm32c0xx_hal_flash_ex.c.obj -c C:\\Users\\manunetics\\Documents\\manunetics-playground\\beta\\nucleo-c0\\Drivers\\STM32C0xx_HAL_Driver\\Src\\stm32c0xx_hal_flash_ex.c",
+  "file": "C:\\Users\\manunetics\\Documents\\manunetics-playground\\beta\\nucleo-c0\\Drivers\\STM32C0xx_HAL_Driver\\Src\\stm32c0xx_hal_flash_ex.c",
+  "output": "CMakeFiles\\stm32c0.dir\\Drivers\\STM32C0xx_HAL_Driver\\Src\\stm32c0xx_hal_flash_ex.c.obj"
+},
+{
+  "directory": "C:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/build",
+  "command": "C:\\PROGRA~2\\ARMGNU~1\\142BCE~1.3RE\\bin\\AR19DD~1.EXE -DSTM32C051xx -DUSE_HAL_DRIVER -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Core/Inc -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Core/Startup -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Drivers/CMSIS/Include -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Drivers/CMSIS/Device/ST/STM32C0xx/Include -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Drivers/STM32C0xx_HAL_Driver/Inc -mcpu=cortex-m0plus -std=gnu11   --specs=nano.specs -mthumb -Wall -Werror -o CMakeFiles\\stm32c0.dir\\Drivers\\STM32C0xx_HAL_Driver\\Src\\stm32c0xx_hal_pwr_ex.c.obj -c C:\\Users\\manunetics\\Documents\\manunetics-playground\\beta\\nucleo-c0\\Drivers\\STM32C0xx_HAL_Driver\\Src\\stm32c0xx_hal_pwr_ex.c",
+  "file": "C:\\Users\\manunetics\\Documents\\manunetics-playground\\beta\\nucleo-c0\\Drivers\\STM32C0xx_HAL_Driver\\Src\\stm32c0xx_hal_pwr_ex.c",
+  "output": "CMakeFiles\\stm32c0.dir\\Drivers\\STM32C0xx_HAL_Driver\\Src\\stm32c0xx_hal_pwr_ex.c.obj"
+},
+{
+  "directory": "C:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/build",
+  "command": "C:\\PROGRA~2\\ARMGNU~1\\142BCE~1.3RE\\bin\\AR19DD~1.EXE -DSTM32C051xx -DUSE_HAL_DRIVER -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Core/Inc -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Core/Startup -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Drivers/CMSIS/Include -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Drivers/CMSIS/Device/ST/STM32C0xx/Include -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Drivers/STM32C0xx_HAL_Driver/Inc -mcpu=cortex-m0plus -std=gnu11   --specs=nano.specs -mthumb -Wall -Werror -o CMakeFiles\\stm32c0.dir\\Drivers\\STM32C0xx_HAL_Driver\\Src\\stm32c0xx_hal_pwr.c.obj -c C:\\Users\\manunetics\\Documents\\manunetics-playground\\beta\\nucleo-c0\\Drivers\\STM32C0xx_HAL_Driver\\Src\\stm32c0xx_hal_pwr.c",
+  "file": "C:\\Users\\manunetics\\Documents\\manunetics-playground\\beta\\nucleo-c0\\Drivers\\STM32C0xx_HAL_Driver\\Src\\stm32c0xx_hal_pwr.c",
+  "output": "CMakeFiles\\stm32c0.dir\\Drivers\\STM32C0xx_HAL_Driver\\Src\\stm32c0xx_hal_pwr.c.obj"
+},
+{
+  "directory": "C:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/build",
+  "command": "C:\\PROGRA~2\\ARMGNU~1\\142BCE~1.3RE\\bin\\AR19DD~1.EXE -DSTM32C051xx -DUSE_HAL_DRIVER -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Core/Inc -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Core/Startup -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Drivers/CMSIS/Include -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Drivers/CMSIS/Device/ST/STM32C0xx/Include -IC:/Users/manunetics/Documents/manunetics-playground/beta/nucleo-c0/Drivers/STM32C0xx_HAL_Driver/Inc -mcpu=cortex-m0plus -std=gnu11   --specs=nano.specs -mthumb -Wall -Werror -o CMakeFiles\\stm32c0.dir\\Drivers\\STM32C0xx_HAL_Driver\\Src\\stm32c0xx_hal_rcc_ex.c.obj -c C:\\Users\\manunetics\\Documents\\manunetics-playground\\beta\\nucleo-c0\\Drivers\\STM32C0xx_HAL_Driver\\Src\\stm32c0xx_hal_rcc_ex.c",
+  "file": "C:\\Users\\manunetics\\Documents\\manunetics-playground\\beta\\nucleo-c0\\Drivers\\STM32C0xx_HAL_Driver\\Src\\stm32c0xx_hal_rcc_ex.c",
+  "output": "CMakeFiles\\stm32c0.dir\\Drivers\\STM32C0xx_HAL_Driver\\Src\\stm32c0xx_hal_rcc_ex.c.obj"
+}
+]

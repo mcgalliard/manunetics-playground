@@ -1,10 +1,6 @@
 # Keep these empty directories
-!/build
-/build/**
-!/output
-/output/**
-!/docs
-/docs/**
+/build/
+/output/
 
 # Allow per-user settings and debug states
 !.vscode/tasks.json
